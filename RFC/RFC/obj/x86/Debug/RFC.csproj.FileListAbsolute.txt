@@ -1,0 +1,50 @@
+C:\Users\Ada\Desktop\RFC\RFC\bin\Debug\RFC.exe
+C:\Users\Ada\Desktop\RFC\RFC\bin\Debug\RFC.pdb
+C:\Users\Ada\Desktop\RFC\RFC\obj\x86\Debug\RFC.Form1.resources
+C:\Users\Ada\Desktop\RFC\RFC\obj\x86\Debug\RFC.Properties.Resources.resources
+C:\Users\Ada\Desktop\RFC\RFC\obj\x86\Debug\RFC.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\RFC\RFC\obj\x86\Debug\RFC.exe
+C:\Users\Ada\Desktop\RFC\RFC\obj\x86\Debug\RFC.pdb
+C:\Users\Ada\Desktop\RFC\RFC\obj\x86\Debug\RFC.csprojResolveAssemblyReference.cache
+D:\exe\RFC\RFC\obj\x86\Debug\RFC.exe
+D:\exe\RFC\RFC\obj\x86\Debug\RFC.pdb
+D:\exe\RFC\RFC\bin\Debug\RFC.exe
+D:\exe\RFC\RFC\bin\Debug\RFC.pdb
+D:\exe\RFC\RFC\obj\x86\Debug\RFC.csprojResolveAssemblyReference.cache
+D:\exe\RFC\RFC\obj\x86\Debug\RFC.Form1.resources
+D:\exe\RFC\RFC\obj\x86\Debug\RFC.Properties.Resources.resources
+D:\exe\RFC\RFC\obj\x86\Debug\RFC.csproj.GenerateResource.Cache
+I:\RFC\RFC\bin\Debug\RFC.exe
+I:\RFC\RFC\bin\Debug\RFC.pdb
+I:\RFC\RFC\obj\x86\Debug\RFC.csprojResolveAssemblyReference.cache
+I:\RFC\RFC\obj\x86\Debug\RFC.Form1.resources
+I:\RFC\RFC\obj\x86\Debug\RFC.Properties.Resources.resources
+I:\RFC\RFC\obj\x86\Debug\RFC.csproj.GenerateResource.Cache
+I:\RFC\RFC\obj\x86\Debug\RFC.exe
+I:\RFC\RFC\obj\x86\Debug\RFC.pdb
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.exe
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.pdb
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\bin\Debug\RFC.exe
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\bin\Debug\RFC.pdb
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csprojResolveAssemblyReference.cache
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.Form1.resources
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.Properties.Resources.resources
+D:\學生時期\YZU\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csproj.GenerateResource.Cache
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csprojResolveAssemblyReference.cache
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.Form1.resources
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.Properties.Resources.resources
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csproj.GenerateResource.Cache
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.exe
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.pdb
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\bin\Debug\RFC.exe
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\bin\Debug\RFC.pdb
+C:\Users\Ada Hsieh\Downloads\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csproj.ResolveComReference.cache
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\bin\Debug\RFC.exe
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\bin\Debug\RFC.pdb
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csprojResolveAssemblyReference.cache
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csproj.ResolveComReference.cache
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.Form1.resources
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.Properties.Resources.resources
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.csproj.GenerateResource.Cache
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.exe
+D:\桌面(原）-20170704T000950Z-001\桌面(原）\RFC(0825)\RFC\obj\x86\Debug\RFC.pdb
